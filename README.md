@@ -16,3 +16,5 @@ Choose a chapter to jump directly into the notes.
 10. Batch Processing
 11. Stream Processing
 12. The Future of Data Systems
+
+<https://www.youtube.com/playlist?list=PLGPe9uvn5fMZ1__Z6yrvcMqiyo5SEeSqP>
